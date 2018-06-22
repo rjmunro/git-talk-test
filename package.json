@@ -1,0 +1,19 @@
+{
+  "name": "git-talk",
+  "version": "1.0.0",
+  "description": "A test project for my git talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjmunro/git-talk-test.git"
+  },
+  "author": "Robert (Jamie)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjmunro/git-talk-test/issues"
+  },
+  "homepage": "https://github.com/rjmunro/git-talk-test#readme"
+}
